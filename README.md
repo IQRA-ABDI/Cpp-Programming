@@ -7,10 +7,11 @@ So I  Will Update whatever I'm Working On Including On this Language So I hope Y
 <br>
 # Contents
 
-I Finished Ultimate C++ Course With Mosh Hamedani it Contains Three parts So You Can check this folder to see The course details
-
+I Took The Ultimate Cpp Course With Mosh Hamedani, it Contains Three parts so, You Can check this folder to see The course details.
 
 -  [The Ultimate C++ Series](https://github.com/IQRA-ABDI/Cpp-Programming/tree/main/Ultimate-Cpp-Course)
 
+
+This Folder Contains LeetCode Problems , HackerRank Problems And Some challenges
 
 - [Problems](https://github.com/IQRA-ABDI/Cpp-Programming/tree/main/Problems)
